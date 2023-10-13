@@ -3,3 +3,8 @@
 巴菲特的老师是格雷厄姆，段永平的老师是巴菲特
 
 
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=fenwii/WarrenBuffettLetter&type=Date)](https://star-history.com/#fenwii/WarrenBuffettLetter&Date)
+
+
